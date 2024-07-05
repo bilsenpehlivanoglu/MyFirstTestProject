@@ -12,7 +12,7 @@ public class Authentication {
 //
 //    Usage :
 //    It helps securely authenticate users in Java applications by generating a token that can be used for accessing protected resources or performing authorized actions within the application.
-
+//    kullanıcıların kimliğini doğrulayan bir yöntem (generateToken)
 //    public static void main(String[] args) {
 //        System.out.println(generateToken("AdminAhmet","AhmetBayram1+"));
 //    }
